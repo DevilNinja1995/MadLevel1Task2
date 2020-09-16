@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MadLevel1Task2</string>
+    <string name="first_value">A</string>
+    <string name="second_value">B</string>
+    <string name="conjuction_value">A ^ B</string>
+    <string name="true_value">T</string>
+    <string name="false_value">F</string>
+    <string name="title_conjunction">Conjuction(AND)</string>
+    <string name="answer_value">Answer</string>
+    <string name="button_submit">SUBMIT</string>
+    <string name="answer1">T</string>
+    <string name="answer2">F</string>
+    <string name="answer3">F</string>
+    <string name="answer4">F</string>
+</resources>
